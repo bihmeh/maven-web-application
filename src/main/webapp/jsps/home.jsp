@@ -9,9 +9,9 @@
 </head>
 </head>
 <body>
-<h1 align="center">Welcome to Tesla Web application Project automation.</h1>
-<h1 align="center">We are Developing and Supporting quality Software Solutions to Millions of clients Globally.
-	           We are raising millionaires in IT automation.
+<h1 align="center">Welcome to Tesla Web application Project Automation.</h1>
+<h1 align="center">We are Developing and Supporting Quality Software Solutions to Millions of clients Globally.
+	           We are raising Millionaires in IT Automation.
 	We offer Training for DevOps with Linux and Cloud equipping IT Engineers for best performance.</h1>
 <hr>
 <br>
