@@ -12,7 +12,7 @@
 <h1 align="center">Welcome to Tesla Web application Project30 Automation.</h1>
 <h1 align="center">We are Developing and Supporting Quality Software Solutions to Millions of clients Globally.
 	           We are raising Millionaires in IT Automation.
-	We offer Training for DevOps with Linux and Cloud equipping IT Engineers for best performance.</h1>
+	We offer Training for DevOps with Linux and Cloud Equipping IT Engineers for best performance.</h1>
 <hr>
 <br>
 	<h1><h3> Server Side IP Address </h3><br>
